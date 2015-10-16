@@ -20,7 +20,7 @@ public class Triangular {
 	      int triang =0, incr = 0;
 	      while(incr < n){
 	        incr++;
-	        triang += incr;
+	        triang += incr; //always a triangle. Add the next number(incr++) to the previous triangle get the new triangle
 	      }
 	      return triang;
 	}
