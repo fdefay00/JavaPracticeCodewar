@@ -1,3 +1,4 @@
+package level1;
 /*Description:
 Triangular numbers are so called because of the equilateral triangular shape that they occupy 
 when laid out as dots. i.e.

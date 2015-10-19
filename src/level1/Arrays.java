@@ -1,3 +1,4 @@
+package level1;
 /*
  * Description:
 Write a function that can return the smallest value of an array or the index of that value. 

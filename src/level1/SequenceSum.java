@@ -1,3 +1,4 @@
+package level1;
 import java.util.stream.IntStream;
 
 public class SequenceSum {
